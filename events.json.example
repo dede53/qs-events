@@ -1,0 +1,5 @@
+{
+	"version":"0.0.1",
+    "loglevel": 1,
+    "filename": "/home/pi/QuickSwitch2.0/SwitchServer/adapter/events/data.ICS"
+}
